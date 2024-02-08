@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/clothophile/static/css/main.c95b6192.css",
+    "main.js": "/clothophile/static/js/main.bfc4bf92.js",
+    "static/js/787.6ca03db3.chunk.js": "/clothophile/static/js/787.6ca03db3.chunk.js",
+    "static/media/relaxed_fit_rib_knit_sweater_1.png": "/clothophile/static/media/relaxed_fit_rib_knit_sweater_1.c15f47ed3f904be319bd.png",
+    "static/media/fine_knit_cashmere_sweater_1.png": "/clothophile/static/media/fine_knit_cashmere_sweater_1.bc03e6f2eba664838828.png",
+    "static/media/long_sleeved_jersey_top_1.png": "/clothophile/static/media/long_sleeved_jersey_top_1.b9f3b5c8b4471282e9c5.png",
+    "static/media/oversized_fit_cotton_t_shirt_dark_yellow_1.png": "/clothophile/static/media/oversized_fit_cotton_t_shirt_dark_yellow_1.3fd325d3acb57b9e6bd1.png",
+    "static/media/denim_overshirt_1.png": "/clothophile/static/media/denim_overshirt_1.98e4193f0f27b77e68f6.png",
+    "static/media/regular_fit_sweatpants_beige_1.png": "/clothophile/static/media/regular_fit_sweatpants_beige_1.68f2a9dd85967fc454b1.png",
+    "static/media/Untitled (7).png": "/clothophile/static/media/Untitled (7).b320e32204019382fa4a.png",
+    "static/media/Untitled (1).png": "/clothophile/static/media/Untitled (1).a26fc7d239df37e92c8a.png",
+    "static/media/revicons.eot": "/clothophile/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/clothophile/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/clothophile/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/clothophile/index.html",
+    "main.c95b6192.css.map": "/clothophile/static/css/main.c95b6192.css.map",
+    "main.bfc4bf92.js.map": "/clothophile/static/js/main.bfc4bf92.js.map",
+    "787.6ca03db3.chunk.js.map": "/clothophile/static/js/787.6ca03db3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c95b6192.css",
+    "static/js/main.bfc4bf92.js"
+  ]
+}
